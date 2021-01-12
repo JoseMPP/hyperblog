@@ -1,0 +1,3 @@
+Algo de contenido y texto
+plano 
+para pruebas de git
