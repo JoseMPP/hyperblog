@@ -1,7 +1,4 @@
 Algo de contenido y texto
 plano 
-para pruebas de git1
-Este es el cambio 1
-Agrego algo mas
-Un nuevo parrafo
-Mas cambio y corrijo
+para pruebas de git
+Esta es la version definitiva
